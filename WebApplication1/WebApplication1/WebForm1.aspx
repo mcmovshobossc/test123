@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Welcome to Visual Web Developer</div>
+            Welcome to Visual Web Developer, this is test of GitHub integration with AWS</div>
     </form>
 </body>
 </html>
