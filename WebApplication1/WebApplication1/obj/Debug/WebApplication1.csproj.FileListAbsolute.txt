@@ -1,0 +1,9 @@
+C:\Users\MichaelMovshovich\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\MichaelMovshovich\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\MichaelMovshovich\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\MichaelMovshovich\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MichaelMovshovich\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MichaelMovshovich\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\MichaelMovshovich\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\MichaelMovshovich\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\MichaelMovshovich\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
